@@ -31,8 +31,9 @@ Mục tiêu là trả lời các câu hỏi kinh doanh và trực quan hóa sau:
 
 ## 🗂 Cấu trúc kho mã
 ```
-├─ financial_loan.ipynb # Notebook chính (toàn bộ xử lý & biểu đồ)
-├─ financial_loan.xlsx # Dữ liệu đầu vào
-├─ Problem Statement.pdf # Yêu cầu/bối cảnh bài toán
-└─ README.md
+Bank-Loan-Analysis/
+├── financial_loan.ipynb/
+├── financial_loan.xlsx
+├── Prolem Statement.pdf
+└── README.md
 ```
